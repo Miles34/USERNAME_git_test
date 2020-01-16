@@ -6,3 +6,4 @@ Advanced Math
 Senior
 China 
 Good
+Xiaoqian Wang  wangx171@msu.edu
