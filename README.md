@@ -1,4 +1,4 @@
-# USERNAME_git_test
+# liucha34_git_test
 CMSE in class assignment
 Changxiong Liu
 liucha34@msu.edu
